@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.ityoudream</groupId>
-    <artifactId>webflux</artifactId>
+    <artifactId>Webflux</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>webflux</name>
+    <name>Webflux</name>
     <description>this is webflux</description>
 
     <properties>
